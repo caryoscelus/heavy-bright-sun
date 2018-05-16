@@ -123,7 +123,7 @@ refreshed. Having quickly remembered the situation i ended up in, i was amused
 by how unconcerned i was about it.
 
 — Hey, Izzy, are you always so carefree? — I spoke to myself aloud, which i do
-way too often when find myself alone in a new environment.
+way too often when i find myself alone in a new environment.
 
 I waited for an answer for a few minutes and when it failed to come, finally got
 up. As i did, i knocked over some boxes lying on the floor and a small cloud of
@@ -171,6 +171,9 @@ the most appropriate way of asking.
 
 — You probably don't remember me, do you? I'm Dima. I believe we've met a couple
 years ago, on that conference... i don't quite remember what it was called.
+
+Incidentally, i didn't remember any conferences "a couple years ago". But i
+didn't get a chance to raise my objections.
 
 — Cut those formalities, Diiima. And sit down, you're obstructing my view!
 
