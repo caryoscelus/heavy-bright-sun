@@ -74,7 +74,7 @@ I remember having started to wonder how can one be undecided about that last
 question, but honestly i don't even remember what it was about now.
 
 At that point the game was interrupted by the loud speaker announcement. I
-couldn't hear what exactly it said, but i knew it was a station name and by
+couldn't hear what exactly did it say, but i knew it was a station name and by
 reaction of my companions i figured it was the station we needed.
 
 We left the suburban train and found ourselves on a short concrete platform,
@@ -152,7 +152,7 @@ I felt like everybody was talking at once and only some half minute later had a
 more accurate account of situation. This was indeed quite a typical party at a
 late stage; most were already high and had already formed circles and cared
 little of the outside world. There were two things that made it look so strange
-at first: small room that condensed everybody to the point of circles mixing up
+at first: small room that condensed everybody to the point of circles mixing up,
 and sober me being so out of place.
 
 I had been staying there for a while, watching and listening and pondering, when
