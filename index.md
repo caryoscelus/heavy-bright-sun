@@ -8,3 +8,5 @@ title: heavy bright sun
 - [глава четыре](chapters/004-glava-chetyre.html)
 - [chapter fifth](chapters/005-chapter-fifth.html)
 - [глава шесть](chapters/006-glava-shest.html)
+- [chapter seventh](chapters/007-chapter-seventh.html)
+
