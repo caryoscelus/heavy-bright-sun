@@ -12,6 +12,7 @@ title: heavy bright sun
 - [глава восемь](chapters/008-glava-vosem.html)
 - [chapter nine](chapters/009-chapter-nine.html)
 - [глава десять](chapters/010-glava-desyat.html)
+- [chapter eleven](chapters/011-chapter-eleven.html)
 
 Working version / send your fixes to:
 https://notabug.org/caryoscelus/heavy-bright-sun
